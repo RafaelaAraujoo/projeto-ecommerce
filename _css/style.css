@@ -18,8 +18,7 @@ nav#menu li {
 
 body {
     background: rgb(0, 0, 129);
-    background: linear-gradient(90deg, rgba(0, 0, 152, 1) 0%, rgba(9, 105, 121, 1) 35%, rgba(4, 0, 85, 1) 100%);
-
+  
 }
 header{
     background-color: antiquewhite;
