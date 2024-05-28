@@ -51,3 +51,8 @@ nav#menu a:hover{
 nav#menu li:hover{
     background-color: rgb(2, 126, 78);
 }
+/* manipulação de imagens do projeto, na página de produtos */
+.produtos img{
+    max-height: 300;
+
+}
