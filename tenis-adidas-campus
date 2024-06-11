@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>produtos</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='_css/style.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <header id="cabecalho"> 
+        <nav id="menu">
+            <h1>produto</h1>
+            <ul>
+                <li><a href="index.html">inicio</a></li>
+                <li><a href="produtos.html">produtos</a></li>
+                <li><a href="sobre.html">sobre</a></li>
+                <li><a href="contato.html">contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="produtos"> 
+        <section>
+            
+            <img src="img/adidas-campus-1.avif" alt="" srcset="">
+            <p>Tênis TÊNIS ADIDAS CAMPUS 00S UNISSEX</p>
+            <p class = " precodesc ">à vista:R$ 229,90 </p>
+            <p>em até 12x de R$ 23,29</p>
+            <h2>informação do produto</h2>
+            <p>
+                O design atemporal do Campus apresenta uma parte superior de camurça
+                 de alta qualidade com a mescla do tecido de alta resistencia
+                  Cordura. O que torna ideal para o dia a dia,
+                 já que ressiste aos desgastes diários,
+                 adiciona maior respirabilidade e repelência à água.
+            </p>
+        </section>
+        
+    </main>
+    
+</body>
+</html>
